@@ -7,7 +7,7 @@ Readme for Practice labs in MoT
 ## About
 This repository shares labs in MoTLab study since 2018 Jan.
 
-### Labs
+## Labs
 This repository include several labs generated in MoTLab study.
 - lab1: The lab1 includes a tiny cnn model to train the [mnist data set](http://yann.lecun.com/exdb/mnist/)
 - lab2: The lab2 includes a set of fundamental modules to build CNN modeuls in Tensorflow 
