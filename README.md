@@ -7,15 +7,7 @@ Readme for Practice labs in MoT
 ## About
 This repository shares labs in MoTLab study since 2018 Jan.
 
-
-## Compiler/Interface Dependencies
-- Tensorflow >=1.4
-- Python2 <= 2.7.12
-- Python3 <= 3.6.0
-- Android Studio <= xxx
-
-
-## Labs
+### Labs
 This repository include several labs generated in MoTLab study.
 - lab1: The lab1 includes a tiny cnn model to train the [mnist data set](http://yann.lecun.com/exdb/mnist/)
 - lab2: The lab2 includes a set of fundamental modules to build CNN modeuls in Tensorflow 
@@ -37,15 +29,15 @@ In lab_cnn_models, we try to build and train several milestone models in [Tensor
 ## MoT weekly report Repository 
 - https://goo.gl/EEE4RE (Korean)
 
-# Feedback 
+## Feedback 
 - Issues: report issues, bugs, and request new features
 - Pull request
 - Email: jwkang10@gmail.com
 
-# License
+## License
 - Apach License 2.0
 
 
-# Authors information 
+## Authors information 
 - [Jaewook Kang Ph.D.](https://www.linkedin.com/in/jaewook-kang-3a4217b9/)
 
