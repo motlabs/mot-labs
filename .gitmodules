@@ -1,0 +1,15 @@
+[submodule "lab1"]
+	path = lab1
+	url = https://github.com/junhoning/tensorflow_basic
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/jwkanggist/tf-cnn-model
+[submodule "lab_android_things"]
+	path = lab_android_things
+	url = https://github.com/MachineLearningOfThings/mot-things-tensorflow
+[submodule "lab_android_mobile"]
+	path = lab_android_mobile
+	url = https://github.com/MachineLearningOfThings/mot-android-tensorflow
+[submodule "lab_cnn_models"]
+	path = lab_cnn_models
+	url = https://github.com/MachineLearningOfThings/mot-model
