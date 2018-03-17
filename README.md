@@ -5,7 +5,7 @@ Readme for Practice labs in MoT
 
 
 ## About
-This repository provides tutorial codes of [Tensorflow](https://www.tensorflow.org/) models
+This repository shares labs in MoTLab study since 2018 Jan.
 
 
 ## Compiler/Interface Dependencies
