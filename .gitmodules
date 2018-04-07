@@ -13,3 +13,6 @@
 [submodule "lab_cnn_models"]
 	path = lab_cnn_models
 	url = https://github.com/MachineLearningOfThings/mot-model
+[submodule "lab_tf_dev"]
+	path = lab_tf_dev
+	url = https://github.com/MachineLearningOfThings/mot-dev
